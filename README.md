@@ -1,5 +1,4 @@
 
-<div align="center"><img src="https://github.com/tuhin733/tuhin733/blob/main/Banner.jpg"></div>
 <h1 align="center">Hi 👋, I'm Naim</h1>
 <h3 align="center">A passionate Android, Cross-Platform, and Frontend Web Developer from India</h3>
 
